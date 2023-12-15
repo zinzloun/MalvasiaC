@@ -1,6 +1,6 @@
 # MalvasiaC
 ## C classic (minimal) reverse powershell
-![Alt text](.\screen.png)
+![Alt text](./screen.png)
 This is a sample Powershell reverse shell, coded just for fun, keeping the stuff as simple as possible, considering my limited knowledge in C. Indeed the logo is much more cool than the program logic 😁
 
 ### Requirements
@@ -21,7 +21,7 @@ Eventually you can pass these values as parameters
 ```
 
 #### In action
-![Alt text](.\screen2.png)
+![Alt text](./screen2.png)
 1. Run the server (in this case using netcat)
 2. Execute the client (AKA the malware) passing the server IP and port
 3. Have fun running some powershell command
