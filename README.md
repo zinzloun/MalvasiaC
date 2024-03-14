@@ -4,7 +4,7 @@
 This is a sample Powershell reverse shell, coded just for fun, keeping the stuff as simple as possible, considering my limited knowledge in C. Indeed the logo is much more cool than the program logic 😁
 
 ### Requirements
-- This software has been coded on Windows using Visual Stubdio Code
+- This software has been coded on Windows using Visual Studio Code
 - Follow the instruction [here](https://code.visualstudio.com/docs/languages/cpp) to get up & running
   - The compiling tasks require you have <b>MySys64-GCC</b> in the following location: "C:\msys64\ucrt64\bin\gcc.exe"
 - Add the <b>-lws2_32</b> parameter to the compiler task [file](./.vscode/tasks.json)
