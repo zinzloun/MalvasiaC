@@ -11,7 +11,7 @@ This is a sample Powershell reverse shell, coded just for fun, keeping the stuff
 - Powershell must be present on the client machine (AKA the victim)
 
 ### Configuration
-You can hardcode the server IP and port around [line 12](./malvasia.c)
+You can hardcode the server IP and port around [line 20](./malvasia.c)
 ```c
 char *CLIENT_IP = "127.0.0.1";
 int CLIENT_PORT = 1234;
