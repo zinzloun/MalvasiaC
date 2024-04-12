@@ -13,7 +13,7 @@ This is a sample Powershell reverse shell, coded just for fun, keeping the stuff
 ### Configuration
 You can hardcode the server IP and port around [line 20](./malvasia.c)
 ```c
-char *CLIENT_IP = "127.0.0.1";
+char *server_IP = "127.0.0.1";
 int CLIENT_PORT = 1234;
 ``` 
 Eventually you can pass these values as parameters
