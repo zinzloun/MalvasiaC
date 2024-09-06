@@ -1,7 +1,7 @@
 # MalvasiaC
 ## C classic (minimal) reverse powershell
 ![Alt text](./screen.png)
-This is a sample Powershell reverse shell, coded just for fun, keeping the stuff as simple as possible, considering my limited knowledge in C. Indeed the logo is much more cool than the program logic 😁
+This is a sample Powershell\DOS reverse shell, coded just for fun, keeping the stuff as simple as possible, considering my limited knowledge in C. Indeed the logo is much more cool than the program 😁
 
 ### Requirements
 - This software has been coded on Windows using Visual Studio Code
