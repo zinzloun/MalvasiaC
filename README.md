@@ -1,5 +1,5 @@
 # MalvasiaC
-## C classic (minimal) reverse powershell
+## C classic (minimal) reverse power&shell
 ![Alt text](./screen.png)
 This is a sample Powershell\DOS reverse shell, coded just for fun, keeping the stuff as simple as possible, considering my limited knowledge in C. Indeed the logo is much more cool than the program 😁
 
